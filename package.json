@@ -3,6 +3,10 @@
     "@faker-js/faker": "^7.6.0",
     "@types/faker": "^5.5.9",
     "@types/google.maps": "^3.52.5",
+    "ng2-pdf-viewer": "^5.2.3",
+    "pdfjs-dist": "^2.0.943"
+  },
+  "devDependencies": {
     "typescript": "^5.0.3"
   }
 }
